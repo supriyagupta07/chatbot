@@ -21,5 +21,9 @@
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/supriyagupta07/chatbot.git",
+  "author": "supriyagupta07 <gupta.supriya.official@gmail.com>",
+  "license": "MIT"
 }
